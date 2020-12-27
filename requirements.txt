@@ -1,0 +1,6 @@
+spacy
+db==0.1.1
+db-sqlite3==0.0.1
+google-trans-new==1.1.9
+nltk==3.5
+numpy==1.19.4
